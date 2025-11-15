@@ -1,0 +1,17 @@
+timestamp,pdf_url,pdf_filename,link_text,status,rows_extracted
+2025-11-15T16:12:10.446173,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-111425-bnx.pdf,auction-111425-bnx.pdf,"November 14, 2025 - Bronx",SUCCESS,36
+2025-11-15T16:12:11.533302,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-111425-brooklyn.pdf,auction-111425-brooklyn.pdf,"November 14, 2025 - Brooklyn",SUCCESS,47
+2025-11-15T16:12:12.321640,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-111425-2-brooklyn.pdf,auction-111425-2-brooklyn.pdf,"November 14, 2025-2 - Brooklyn",SUCCESS,38
+2025-11-15T16:12:13.191705,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-111725-statisl.pdf,auction-111725-statisl.pdf,"November 17, 2025 - Staten Island",SUCCESS,19
+2025-11-15T16:12:14.229814,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-111825-bronx.pdf,auction-111825-bronx.pdf,"November 18, 2025 - Bronx",SUCCESS,28
+2025-11-15T16:12:15.082612,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-111925-brooklyn.pdf,auction-111925-brooklyn.pdf,"November 19, 2025 - Brooklyn",SUCCESS,21
+2025-11-15T16:12:16.049479,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-111925-queens.pdf,auction-111925-queens.pdf,"November 19, 2025 - Queens",SUCCESS,30
+2025-11-15T16:12:16.999074,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-112025-bronx.pdf,auction-112025-bronx.pdf,"November 20, 2025 - Bronx",SUCCESS,16
+2025-11-15T16:12:17.833921,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-112025-queens.pdf,auction-112025-queens.pdf,"November 20, 2025 - Queens",SUCCESS,27
+2025-11-15T16:12:18.781834,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-112125-brooklyn.pdf,auction-112125-brooklyn.pdf,"November 21, 2025 - Brooklyn",SUCCESS,19
+2025-11-15T16:12:19.464886,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-112125-queens.pdf,auction-112125-queens.pdf,"November 21, 2025 - Queens",SUCCESS,16
+2025-11-15T16:12:20.546757,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-112125-2-queens.pdf,auction-112125-2-queens.pdf,"November 21, 2025-2 - Queens",SUCCESS,31
+2025-11-15T16:12:21.505750,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-112525-bronx.pdf,auction-112525-bronx.pdf,"November 25, 2025 - Bronx",SUCCESS,21
+2025-11-15T16:12:22.398488,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-112625-bronx.pdf,auction-112625-bronx.pdf,"November 26, 2025 - Bronx",SUCCESS,21
+2025-11-15T16:12:23.165525,https://www.nyc.gov/assets/finance/downloads/pdf/auction/auction-112625-brooklyn.pdf,auction-112625-brooklyn.pdf,"November 26, 2025 - Brooklyn",SUCCESS,2
+2025-11-15T16:12:23.646413,https://www.nyc.gov/assets/finance/downloads/pdf/auction_property/auction-property-090821.pdf,auction-property-090821.pdf,"New York County Sheriff Auction - September 8, 2021",PARSE_FAILED,0

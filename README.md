@@ -1,2 +1,2 @@
 # new_york_fleet
-Helps in getting auction cars from New York State website 
+Automating New York Car Auction list and verification of VIN 
